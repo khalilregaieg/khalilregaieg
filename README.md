@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khalilregaieg
-- 👀 I’m interested in software engineering
+<!---- 👀 I’m interested in software engineering --->
 <!---- 🌱 I’m currently learning ... --->
 <!---- 💞️ I’m looking to collaborate on ... --->
 <!---- 📫 How to reach me ... ---->
